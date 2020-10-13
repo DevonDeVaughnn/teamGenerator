@@ -21,7 +21,7 @@ Contact me at: devondevaughnn@gmail.com
 * [License](#license)
 
 ## Screenshot
-![img](/teamGenerator/Assets/Screenshot%20(210).png)
+![img](Screenshot(210).png)
 
 ## Tests
 
@@ -42,9 +42,4 @@ Contact me at: devondevaughnn@gmail.com
 ## Credits
 
 Contributors:
-* N/A 
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-## Screenshot
-![img](Screenshot(210).png)
+N/A
