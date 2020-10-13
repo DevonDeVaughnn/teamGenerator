@@ -21,7 +21,7 @@ Contact me at: devondevaughnn@gmail.com
 * [License](#license)
 
 ## Screenshot
-![img](./Assets/Screenshot(210).png)
+![img](/Assets/Screenshot(210).png)
 
 ## Tests
 
