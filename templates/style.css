@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital@1&display=swap');
+
+body, .jumbotron{
+    background:rgba(0, 0, 0, 0.493);
+    color:white;
+    font-family: 'Raleway', sans-serif;
+}
+
+.card{
+    background-color: rgba(28, 0, 130, 0.479);
+    color: whitesmoke;
+    font-size: smaller;
+}
+.list-group{
+    color:rgb(0, 0, 0);
+    font-size: 18px;
+
+}
+.card-header {
+    max-width: 18rem;
+    height: 14rem;
+    color: white;
+    }
+    
+    .team-heading {
+        background-color: rgba(17, 9, 136, 0.445);
+        color: white;
+        font-weight: bolder;
+    }
+    .employee-card {
+        display: inline-block;
+    }
