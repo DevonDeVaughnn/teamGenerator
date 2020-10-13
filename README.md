@@ -21,7 +21,7 @@ Contact me at: devondevaughnn@gmail.com
 * [License](#license)
 
 ## Screenshot
-![img](/Screenshot(210).png)
+![img](file:///C:/Users/theDeauxMeaux/Desktop/code/Repositories/teamGenerator/Assets/Screenshot%20(210).png)
 
 ## Tests
 
