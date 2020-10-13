@@ -47,10 +47,4 @@ Contributors:
 <<<<<<< HEAD
 
 ## Screenshot
-![img](../Assets/Screenshot(210).png)
-=======
->>>>>>> 85f78fb9d67d1db5469af1b4578bb9336a5b1892
-=======
-
-
->>>>>>> e6f86464122e57d9a708c55ac1d6a5d8b0f2abe8
+![img](Screenshot(210).png)
