@@ -8,6 +8,7 @@ Contact me at: devondevaughnn@gmail.com
  * This project creates a profile for your team members using their provided information
 
 ## Table of Contents
+* [Screenshot](#screenshot)
 
 * [Tests](#testing)
 
@@ -18,6 +19,9 @@ Contact me at: devondevaughnn@gmail.com
 * [Credits](#contribution)
 
 * [License](#license)
+
+## Screenshot
+![img](/teamGenerator/Assets/Screenshot%20(210).png)
 
 ## Tests
 
@@ -40,8 +44,13 @@ Contact me at: devondevaughnn@gmail.com
 Contributors:
 * N/A 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 ## Screenshot
 ![img](../Assets/Screenshot(210).png)
 =======
 >>>>>>> 85f78fb9d67d1db5469af1b4578bb9336a5b1892
+=======
+
+
+>>>>>>> e6f86464122e57d9a708c55ac1d6a5d8b0f2abe8
